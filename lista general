@@ -1,0 +1,134 @@
+<html>
+<head>
+<BODY BGCOLOR="‪#‎FE2E64‬" TEXT="#000000" LINK="‪#‎0000FF‬" VLINK="#800080" ALINK="‪#‎FF0000‬" BACKGROUND="http://3.bp.blogspot.com/-B6eQ-FMwp68/U_Opol-cU_I/AAAAAAAAAuE/_6JKMbFmXtA/s1600/gestos-romanos-1.jpg">
+<script>
+function mostrar(enla) {
+obj = document.getElementById('oculto');
+obj.style.visibility = (obj.style.visibility == 'hidden') ? 'visible' : 'hidden';
+enla.innerHTML = (enla.innerHTML == '-') ? '+' : '-';
+}
+</script>
+</head>
+<body>
+<body oncontextmenu="return false" onkeydown="return false">
+<a href="#" onclick="mostrar(this); return false" /></a>
+<div id="oculto" style="visibility:hidden">
+
+
+#EXTM3U
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/rvtsqscegovbap9/LOGO%20RTV%20VIP.jpg"[COLOR blue] LISTAS REMOTAS DEL GRUPO RTV [/COLOR]
+http://127.0.0.1
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/rvtsqscegovbap9/LOGO%20RTV%20VIP.jpg"[COLOR lightblue]ACTUALIZADA 23/Octubre/2016 [/COLOR]
+http://127.0.0.1
+
+
+#EXTINF:-1 ,tvg-logo="http://www.catholicinfertilityjourney.com/wp-content/uploads/2016/04/facebook-logo.png"ENLACE A FACEBOOK  DEL GRUPO[COLOR green][/COLOR]
+RTV_OPEN_BROWSER_LINK://https://www.facebook.com/groups/112783402461795/
+
+#EXTINF:-1 ,tvg-logo="https://ugc.kn3.net/i/origin/http://spectrum.mit.edu/wp-content/uploads/sites/17/dropbox_logo.png"[COLOR green]LISTAS ENCONTRADAS  [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/b096y6pgdi5l6s3/LISTA-ROSADIN-IPTV-TOTAL.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/b7y7c27b8khohad/10628483_10203394732812470_6261712294651732503_n.jpg"[COLOR green] RTV by FER   [/COLOR]
+RTV_LIST_BROWSE://https://download.inevio.com/file/84SHjhDA
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/2nwkd0ykr6o1ug6/ANA%20BELEN%20CHAMORRO.jpg"[COLOR green] RTV by ANA BELEN CHAMORRO (LISTA DE DIBUS)   [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/o9tr01bbxfbdb39/LISTA%20PRINCIPAL.html
+
+#EXTINF:-1 ,tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/13770416_10206714049145266_162566135097363218_n.jpg?oh=f44526f2419147ac85f296b0b9137484&oe=585BC246"[COLOR green] RTV by MATUS YESHUA    [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/u/23691020/Remotaaa.html
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/d9yyd0pofb3uxv6/MANUEL%20FAJARDO%20FLORES.jpg" [COLOR green] RTV by MANUEL FAJARDO PLORES   [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/uhvo0m5lmhqgn9b/lsita%20remota%20manuff.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/gng29td0q5javlp/LUIS%20FERNANDO%20RODRIGUEZ.jpg"[COLOR green]RTV by LUIS FERNANDO RODRIGUEZ (PELICULAS Y SERIES )[/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/twnejq0g3kuiua0/Pel%C3%ADculas%20Y%20Series06.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/vh62ciz1g228khj/KARMELO%20OCERIN.jpg"[COLOR green] RTV by KARMELO OCERIN    [/COLOR]
+RTV_LIST_BROWSE://http://bit.ly/karmelodecosydocumentales
+
+#EXTINF:-1 ,tvg-logo="http://grantsburgchamber.com/wp-content/uploads/2010/07/pirate-logo.jpg"RTV by JUAN CARLOS ROMEU GOMEZ [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/zgy23qmdfh5qomv/rosadin%20grupo.m3u?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/p160x160/13062357_822022331274431_6089287056753626438_n.jpg?oh=efc7ae3d0dfb523abff0b2adb5b7edfa&oe=583C7E12"[COLOR green] RTV by SERGIO PASTRANA  [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/tb0f07t58f41uq7/SERGIO%20PASTRANA.html?dl=0
+
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/nupkdqkb69vzcrm/MIGUEL%20FERNANDEZ.jpg"[COLOR green] RTV by MIGUEL FERNANDEZ  [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/pel54crbszwo8rz/lista%20oculta%20miguel%20fernandes.html
+
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/jwjwgnpb3qv0w5j/ESLY%20ESPINOZA.jpg"[COLOR green] RTV by ESLY ESPINOZA  (CANALES DE PERU)[/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/4lv5deju3d0k70o/Peru.m3u?dl=0
+
+#EXTINF:-1, tvg-logo="https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-1/c7.0.160.160/p160x160/308875_2180339361429_1008206570_n.jpg?oh=c602df7c462c6081f734fc3f1e679f38&oe=585A46BE"[COLOR green] RTV by JORDI RODRÍGUEZ[/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/ax5ruyrtp08kcfj/Nueva%20lista.m3u?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/tcwsi8ik5f66h3e/DAMIAN%20FORT.jpg"[COLOR green] RTV by DAMIAN FORT     [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/vgqia1qc6t6pxju/remotadeportiva-d-mf.html
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/ezb428mnd282h6a/MAURO%20DAVID%20YIM%20RODRIGUE.jpg?dl=0"[COLOR green] RTV by MAURO DAVID YIM RODRIGUE     [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/vw4u7y8txio92tl/poche2.html
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/rab8o23gtm5obmw/CRISTIAN%20%20SOSA.jpg"[COLOR green] RTV by CRISTIAN SOSA (DEPORTES)    [/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/9e0r9vy4z399ohr/deportes.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/x5o4nrd03k2va30/13246186_192147651179713_5151601961973796128_o.jpg"RTV by JUAN LEIVA [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/hskjebirf2ouhyj/Lista%20Remota%20Por%20JL.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/2e02mqjeyjqvldj/ISRA%20LOPEZ.jpg"[COLOR green] RTV by ISRA LOPEZ   [/COLOR]
+RTV_LIST_BROWSE://https://db.tt/GiHI4iG5
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/azu21yyp04s2ex1/NORMAN%20XON.jpg"[COLOR green]RTV by NORMAND XON [/COLOR]
+RTV_LIST_BROWSE://http://lista.playhdlatino.com
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/8ih53cztrjgkof6/VILMOS%20CZINEGE.jpg"RTV by VILMOS CZINEGE [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/2ungj844xi4iyqm/ROSADIN%20by%20Vili.html
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/k69duqsfe2hmsmh/MANUEL%20E%20MATERS.jpg?dl=0"RTV by MANUEL E MATERS [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/j6khkip3yuah32f/listasmx.html?dl=0   
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/c86t2olymqjgs1j/CESAR%20ELIUD%20MORALES%20GUAJARDO.jpg?dl=0"RTV by CESAR ELIUD MORALES GUAJARDO [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/jixu8b1z7ck2t6a/blindNewEliudnatorList.html
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/82gsd8n1rn4wmqg/ENRIQUE%20ESPARZA.jpg?dl=0"RTV by ENRIQUE ESPARZA [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/p9ej5keu75bm3va/Calida%20HD.html?dl=0
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/92j5dmvz9c5j63h/MANUEL%20CORTES%20ISARIO.jpg?dl=0"RTV by MANUEL CORTES ISARIO [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://googledrive.com/host/0Bzs5VURhWfF8QUNpaEdvUVJDVzA/GRECKO.M3U
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/8i58enxlm1007is/ROCKBERTO%20GONZALEZ%20OLIVARES.jpg?dl=0"RTV by ROCKBERTO GONZALEZ OLIVARES [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropboxusercontent.com/s/t5oc3fhm27387mb/Chile.html
+
+
+
+#EXTINF:-1 ,tvg-logo="http://files.softicons.com/download/web-icons/world-cup-flags-icons-by-custom-icon-design/png/512x512/Mexico.png"[COLOR green]RTV by MEXICO LISTAS ADDON FREE[/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/3qy8ryyfwfrz5ud/lista%20de%20MEXICO%20LISTAS%2CADDON%2CFREE.m3u
+
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/ixwdobu9ymb45hy/ANONIMUS.jpg?dl=0"RTV by ANONIMUS (XXX) [COLOR green][/COLOR]
+RTV_LIST_BROWSE://https://dl.dropbox.com/s/9fgeqfvxdbzq1jv/Listahot.m3u?dl=0?ATENCION=[INPUTBOX SI ERES MENOR DE EDAD NO ENTRES[/INPUTBOX]
+
+
+
+
+
+#EXTINF:-1 ,tvg-logo="http://tv.tecnotv.net/gallery_gen/36e666daff3bd71932ef44a2cdb2e4ae_277x75.png"RTV by TECNOTV [COLOR green][/COLOR]
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/57gggf73hwqtrmr/EXABYTE.png?dl=0"RTV by EXABYTE TV HD [COLOR green][/COLOR]
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/57gggf73hwqtrmr/EXABYTE.png?dl=0"RTV by EXABYTE TV SD [COLOR green][/COLOR]
+#EXTINF:-1 ,tvg-logo="https://dl.dropbox.com/s/57gggf73hwqtrmr/EXABYTE.png?dl=0"RTV by EXABYTE TV CONEXION BAJA [COLOR green][/COLOR]
+#EXTINF:-1 ,PRUEBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body> 
+</html> 
+</div>
